@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://visitcount.itsvg.in/api?id=NikhilUppala&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=nikhiluppala&color=blue)
 
 <!--
 **nikhiluppala/nikhiluppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
