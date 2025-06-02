@@ -1,4 +1,4 @@
-### Hi there, I am Software Test Engineer with 5+ years of experience in automation and quality assurance, now seeking to transition into full stack or backend development. Backed by a master’s degree in software engineering with strong skills in coding, system design, and databases, I’m eager to build robust, scalable applications and contribute to development teams.👋
+### Hi there 👋, I am Software Test Engineer with 5+ years of experience in automation and quality assurance, now seeking to transition into full stack or backend development. Backed by a master’s degree in software engineering with strong skills in coding, system design, and databases, I’m eager to build robust, scalable applications and contribute to development teams.
 
 ![](https://komarev.com/ghpvc/?username=nikhiluppala&color=blue)
 
